@@ -61,7 +61,7 @@ const portfolioProjects = ref([
   <div class="max-w-[1512px] mx-auto">
     <Navbar class="font-poppins" />
     <section
-      class="mt-14 gap-y-14 gap-x-[90px] grid grid-cols-2 font-poppins px-[157px] text-paragraph text-xl"
+      class="mt-16 gap-y-14 gap-x-[90px] grid grid-cols-2 font-poppins px-[157px] text-paragraph text-xl"
     >
       <div>
         <h1 class="text-[#1C2536] text-6xl font-extrabold mb-5">Nos Clients</h1>
