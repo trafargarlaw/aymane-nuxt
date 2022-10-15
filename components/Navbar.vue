@@ -1,6 +1,6 @@
 <template>
   <div
-    class="mt-3 px-[157px] flex justify-between items-center text-title font-semibold"
+    class="py-3 px-[157px] flex justify-between items-center text-title font-semibold"
   >
     <Logo />
     <ul class="flex gap-10 items-center">

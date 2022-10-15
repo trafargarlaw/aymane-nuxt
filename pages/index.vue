@@ -58,7 +58,7 @@ const portfolioProjects = ref([
 </script>
 
 <template>
-  <div class="max-w-[1512px] mx-auto">
+  <div class="max-w-[1512px] mx-auto bg-white">
     <Navbar class="font-poppins" />
     <section
       class="mt-16 gap-y-14 gap-x-[90px] grid grid-cols-2 font-poppins px-[157px] text-paragraph text-xl"
